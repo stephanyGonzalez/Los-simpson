@@ -1,0 +1,120 @@
+body{background-color:red;
+    background-image:url(fondo.jpg);}
+
+header{margin-left:200px;}
+
+nav ul{list-style: none;}
+
+nav ul li{
+   border-radius:10px;
+   color:#3E85FF ;
+        float: left;
+        margin-left:4px;
+        margin-right:4px;
+        font-size: 30px;
+        text-decoration:none;
+        border-style:solid;
+        border-color: white;
+        padding:1px;
+        background-color: white}
+
+#contenedor{
+       border-radius:8px;
+       border-style: solid;
+       border-width: 5px;
+       border-color: white;
+       margin: auto;
+       width: 1000px}		 
+
+
+h1{font-size: 58px;
+   color:#3E85FF;
+   background-color:white;
+   margin-right: 200px;
+   margin-left: 200px;
+   margin-top: 100px;
+   padding-right: 60px
+   width:150px;}
+
+h2{font-size: 38px}
+
+   
+/*--------- index-------*/
+#texto_inicio{font-size:29px;
+ background-color: white;
+ color:#3E85FF;
+ margin-top: 20px;
+ border-radius:18px; }
+
+
+
+/*--------personajes--------*/
+
+#texto_homero{font-size:29px;
+ background-color: white;
+ color:#3E85FF;
+margin: 25px;
+padding: 5px;}
+
+#foto_homero{float: right;} 
+
+#titulo_homero{margin: 25px}
+
+/*--------Historia--------*/
+#historia1{font-size:29px;
+ background-color:#FFF30A;
+ color:#3E85FF;
+ width:400px;}
+
+
+
+#historia2{font-size:29px;
+ background-color:#FFF30A;
+ color:red;
+ width: 500px;
+ float: right;
+}
+
+
+#historia3{font-size:29px;
+ background-color: #FFF30A;
+ color:#3E85FF;
+ clear: both;
+}
+
+.padding-20{padding: 20px}
+
+#foto_historia{}
+
+/*--------Curiosidades--------*/
+
+
+ol{font-size:29px;
+ background-color: white;
+ color:#3E85FF}
+
+
+
+/*--------Matt--------*/
+
+#matt1{font-size:30px;
+      width:600px;
+      float: left;
+      color:#3E85FF;
+      background-color:white}
+
+
+#matt2{font-size:30px;
+      width:900px;
+      color:#3E85FF;
+      background-color:white;
+      margin-top: 15px}
+
+
+#matt3{font-size:29px;
+      width:900px;
+      color:#3E85FF;
+      background-color:white}
+
+#fotografia_matt{padding: 30px
+}		
